@@ -5,7 +5,7 @@
 [Table of Contents]
 
 1. Vars and Inits
-2. Set Header
+2. Set Header 
 3. Init Menu
 4. Init SVG
 5. Init Isotope
